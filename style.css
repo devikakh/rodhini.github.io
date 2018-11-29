@@ -1,0 +1,260 @@
+
+/*
+.nav {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    padding: 0;
+    list-style: none;
+    background-color: #f2f2f2;
+    border-bottom: 1px solid #ccc;
+    border-top: 1px solid #ccc; 
+    margin-left: 0px;  
+}
+*/
+.navhead
+{
+    text-align: center;
+}
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: #235a9a;
+    background-color: #e7e7e7;
+}
+.navbar-default .navbar-nav>li>a {
+    color: #235a9a;
+}
+.navbar-default .navbar-nav
+{
+    text-align: center;
+}
+.no-padd {
+	padding: 0;
+}
+.nav>li>a{
+        padding: 10px 9px;
+    
+}
+.container-fluid {
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0px;
+    border: 1px solid transparent;
+    color:#235a9a;
+}
+.nav .navbar-nav
+{
+    color: #235a9a;
+}
+
+.first-para
+{
+       background-color:#b9c9d9;
+        height:500px;
+       background-image: url("../ASSIGNMENT/Rodhini/c/banner2.png");
+        background-position: right;
+        background-repeat: no-repeat;
+}
+
+.first-para .head1{
+  
+    font-size: 50px;
+    text-align: right;
+    color: 235a9a;
+    margin-top: 93px;
+}
+
+.first-para .head2{
+    margin-top: auto;
+     text-align: right;
+    font-size: 20px;
+    
+}
+
+.second-para
+{
+    background-color:#235a9a;
+    height:400px;
+    color:white;
+   
+}
+.second-para .para1
+{
+    text-align: center;
+    margin-top: 90px;
+    font-size: 20px;
+    
+}
+.second-para .para2
+{
+    text-align: center;
+    margin-left: 200px;
+    margin-right: 200px;
+ }
+
+.second-para .para3
+{
+    text-align: right;
+    margin-right: 200px;
+    margin-top: 30px;
+ }
+
+section.third-para {
+    
+    background-color: #ffffff;
+}
+
+
+
+
+
+
+
+section.third-para .para1
+{
+    
+    margin-left: 61px;
+    font-size: 30px;
+    margin-top: 47px;
+}
+
+section.third-para .para2
+{
+    margin-left: 51px;
+}
+
+section.third-para .para3
+{
+    margin-left: 51px;
+}
+
+.button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+    
+}
+
+section.forth-para {
+    height: 350px;
+    text-align: center;
+    font-size: 25px;
+    color:white;
+}
+.forth-para .para1{
+    background-image: url("../ASSIGNMENT/Rodhini/c/1.png");
+    background-repeat: no-repeat;
+    height: 350px;
+}
+
+.forth-para .para2{
+    background-image: url("../ASSIGNMENT/Rodhini/c/2.png");
+    background-repeat: no-repeat;
+    height: 350px;
+}
+forth-para img{
+    margin-top:60px;
+    
+}
+/*
+section.forth-para img {
+    z-index: -1;
+}
+*/
+
+
+
+section.fifth-para
+{
+    height: 300px;
+    background-color:#b9c9d9;
+}
+
+
+section.fifth-para .para1 {
+    font-size: 25px;
+    text-align: center;
+
+}
+
+section.fifth-para .para2{
+    font-size: 15px;
+    text-align: center;
+    padding: 0px 335px;
+}
+
+.sixth-para 
+{
+    background-color: #235a9a;
+    height: 230px;
+    color: white;
+ 
+}
+
+.sixth-para .para2
+{
+    color:antiquewhite;
+}
+
+.sixth-para .row
+{
+    margin-top: 15px;
+}
+
+.sixth-para img
+{
+    margin: 40px;
+}
+
+.sixth-para .para1
+{
+    
+    font-weight: 30px;
+}
+
+.fa-facebook {
+  
+  color: white;
+    padding-right: 25px;
+}
+.fa-twitter {
+  
+  color: white;
+    padding-right: 25px;
+}
+.fa-google-plus {
+  
+  color: white;
+    padding-right: 25px;
+}
+.fa-youtube {
+  
+  color: white;
+    padding-right: 25px;
+}
+
+hr
+ { 
+    display: block;
+    color: aliceblue;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+    margin-left:30px
+} 
+.Privacy
+{
+    margin-left: 85px;
+    color:antiquewhite;
+    font-size: 10px;
+}
+span{
+    color:white;
+    font-size: 12px;
+}
